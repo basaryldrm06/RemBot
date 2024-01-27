@@ -10,3 +10,6 @@ import copy
 
 # BinanceAPI Connection
 client = Client(api_key, secret_key)
+
+# csv path initialization
+csv_path_result = "./data/rembot_result.csv"
