@@ -25,6 +25,7 @@ do_not_enter_short = False
 on_long = False
 on_short = False
 
+print_with_color("cyan", "MeraBot is running...")
 
 # initialization
 indicator_check = fetch_all_indicators(client)
