@@ -7,3 +7,6 @@ from data.IndicatorData import IndicatorData
 from time import sleep
 from data.data_functions import save_position, save_result
 import copy
+
+# BinanceAPI Connection
+client = Client(api_key, secret_key)
