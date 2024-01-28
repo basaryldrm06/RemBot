@@ -58,7 +58,7 @@ def close_position(isTP):
         print_with_color("yellow", "TP: " + str(tp_count) + " SL: " + 
             str(sl_count) + " Win-Rate: " + calculateWR(tp_count, sl_count))
 
-print_with_color("cyan", "MeraBot is running...")
+print_with_color("cyan", "RemBot is running...")
 
 # initialization
 indicator_check = fetch_all_indicators(client)
