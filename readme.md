@@ -7,7 +7,7 @@
 
 - [Description](#description)
 
-- [How It Works?](#how-it-works)
+- [How does it work?](#how-does-it-work)
 
 - [Technologies Used](#technologies-used)
 
@@ -28,7 +28,7 @@ RemBot is an experimental cryptocurrency trading bot. This bot monitors specific
     <img src="./readme_src/description.jpg" alt="Project Cover" width="350">
 </div>
 
-## How It Works?
+## How does it work?
 REM stands for RSI-EMA-MACD
 
 When certain conditions are met, Bot enters position automatically.
